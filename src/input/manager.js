@@ -149,7 +149,7 @@
                     control = false,
                     event;
 
-                log(this.getInputEvents() , i);
+                
 
                 while (i--) {
                     event = events[i];
